@@ -38,8 +38,4 @@ When a client approves a design and you build their actual site:
 3. Once they've purchased a domain (e.g. via Namecheap or GoDaddy), connect it to the hosted site by updating the domain's DNS settings to point to your host — Netlify's site settings has a "Domain management" section that walks through this
 4. Hand over admin access / login details once final payment is received
 
-## Pricing reference (for your own notes)
 
-- Introductory rate (first 1–2 clients, before you have testimonials): ₹6,000–8,000
-- Standard rate for a simple 4–5 page business site: ₹10,000–12,000
-- Always collect 50% upfront before starting work, remaining 50% before final handover
